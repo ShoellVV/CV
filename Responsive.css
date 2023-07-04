@@ -106,11 +106,11 @@
 
     .tabs-btn{
         font-size: 13px;
-        width: 105px;
+        width: 125px;
     }
 
     .tabs-btn:nth-child(3){
-       width: 201px;
+       width: 204px;
     }
 
     /* content */
