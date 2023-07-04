@@ -77,11 +77,11 @@ a{
 }
 
 .CV-container-large{
-    height: 1650px;
+    height: 1750px;
 }
 
 .CV-container-large .row{
-    height: 1500px;
+    height: 1600px;
 }
 
 /*aside */
@@ -177,6 +177,10 @@ a{
 .about p{
     line-height: 25px;
     text-align: start;
+}
+
+.link a:hover{
+    text-decoration: underline white;
 }
 
 .visible{
